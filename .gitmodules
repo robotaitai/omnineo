@@ -1,0 +1,3 @@
+[submodule "omnineo/src/depthai-ros"]
+	path = omnineo/src/depthai-ros
+	url = https://github.com/luxonis/depthai-ros.git
